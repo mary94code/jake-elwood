@@ -322,7 +322,7 @@ strong {
 ===================== */
 
 .hero {
-    background-image: url('hero-bg.jpg');
+    background-image: url("hero-bg.jpg");
     background-size: cover;
     background-position: bottom;
     padding: 8em 0 4em;
